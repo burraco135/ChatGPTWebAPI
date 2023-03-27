@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chatgpt-api", "chatgpt-api\chatgpt-api.csproj", "{C4A2514C-EE7B-486C-94CB-7E686B0D36EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatgpt-api.Service", "chatgpt-api.Service\chatgpt-api.Service.csproj", "{FDACD1BC-8A2F-4A7C-89EB-A69A3976DEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatgpt-api.Model", "chatgpt-api.Model\chatgpt-api.Model.csproj", "{3CC2504B-62F8-4893-921C-B76788E6BCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A2514C-EE7B-486C-94CB-7E686B0D36EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A2514C-EE7B-486C-94CB-7E686B0D36EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A2514C-EE7B-486C-94CB-7E686B0D36EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A2514C-EE7B-486C-94CB-7E686B0D36EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDACD1BC-8A2F-4A7C-89EB-A69A3976DEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDACD1BC-8A2F-4A7C-89EB-A69A3976DEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDACD1BC-8A2F-4A7C-89EB-A69A3976DEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDACD1BC-8A2F-4A7C-89EB-A69A3976DEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC2504B-62F8-4893-921C-B76788E6BCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC2504B-62F8-4893-921C-B76788E6BCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC2504B-62F8-4893-921C-B76788E6BCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC2504B-62F8-4893-921C-B76788E6BCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5598F77-FFC2-45E4-938C-0978E4527D80}
+	EndGlobalSection
+EndGlobal
